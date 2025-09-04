@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">AvatarSpark</string>
+    <string name="Nombre">AvatarSpark</string>
+    <string name="Nombre_Persona">Johan David Vasquez</string>
+    <string name="Button_Comienza">Comienza</string>
+    <string name="Button_Registrate">Registrate</string>
+    <string name="Descripcion">Inicia una nueva aventura con AvatarSpark y descubre una nueva forma de ver el mundo</string>
+    <string name="Descripcion_login">La aventura esta por iniciar, por favor inicia sesion</string>
+    <string name="Button_Ingresar">Ingresar</string>
+    <string name="Recupera">Recupera tu contraseña</string>
+    <string name="Google">Ingresa Con Google</string>
+    <string name="Sin_cuenta">No tienes cuenta?</string>
+    <string name="Registrate">Registrate</string>
+    <string name="Instructivo">Ingresa tus datos y verifica tu correo para activar tu cuenta</string>
+    <string name="RegisterName">Diguite su nombre</string>
+    <string name="RegisterApellidos">Diguite sus Apellidos</string>
+    <string name="RegisterEmail">Diguite su correo electronico</string>
+    <string name="Password">Diguite la contraseña</string>
+    <string name="Passwordtwo">Diguite la contraseña nuevamente</string>
+    <string name="Check">Terminos y Condiciones</string>
+    <string name="CheckRegister">Registrarse</string>
+    <string name="Okemail">Ya tienes cuenta registrada?</string>
+    <string name="OKSession">Iniciar Sesion</string>
+    <string name="passwordlost">Ingresa tu correo y te enviaremos un enlace para restablecer tu contraseña.</string>
+    <string name="passwordlosttwo">Recuperar contraseña</string>
+    <string name="Name">Su Nombre es: </string>
+    <string name="Apellido">Su Apellido es: </string>
+    <string name="email">Su Correo es: </string>
+    <string name="phone">Su Numero es: </string>
+    <string name="edit">Editar Perfil </string>
+
+</resources>
