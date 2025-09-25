@@ -115,7 +115,7 @@
 
 
         <Button
-            android:id="@+id/button"
+            android:id="@+id/btnStart"
             android:layout_width="0dp"
             android:layout_height="60dp"
             android:layout_marginTop="20dp"
@@ -137,7 +137,7 @@
             android:text="@string/Recupera"
             android:textColor="@color/white"
             android:textSize="18sp"
-            app:layout_constraintTop_toBottomOf="@id/button"
+            app:layout_constraintTop_toBottomOf="@id/btnStart"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintEnd_toEndOf="parent" />
 
@@ -182,7 +182,7 @@
             app:layout_constraintStart_toStartOf="parent" />
 
         <TextView
-            android:id="@+id/textView6"
+            android:id="@+id/tvRegister"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/Registrate"
